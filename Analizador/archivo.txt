@@ -1,0 +1,20 @@
+program hola;
+method xx( int  a,  int b, int  c)
+if (a & b)  then
+a = b;
+res = b + a - ;
+endif
+endm
+funtion sii(  ): int
+write ("Hola mundo",);
+read(a);
+endf
+int  z ,y;
+z= -80;
+y=6;
+xx(y,z);
+a= sii(z,x);
+while (z<=0)do
+z=y - 1 ;
+endwhile
+endp
